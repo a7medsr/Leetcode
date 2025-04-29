@@ -59,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/a7medsr/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/a7medsr/Leetcode/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/a7medsr/Leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/a7medsr/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
