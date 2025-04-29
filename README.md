@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/a7medsr/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/a7medsr/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/a7medsr/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/a7medsr/Leetcode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/a7medsr/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/a7medsr/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/a7medsr/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/a7medsr/Leetcode/tree/master/3447-clear-digits) |
 ## Queue
 |  |
 | ------- |
