@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/a7medsr/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/a7medsr/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/a7medsr/Leetcode/tree/master/0724-find-pivot-index) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/a7medsr/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/a7medsr/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2470-removing-stars-from-a-string](https://github.com/a7medsr/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/a7medsr/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/a7medsr/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0342-power-of-four](https://github.com/a7medsr/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/a7medsr/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
