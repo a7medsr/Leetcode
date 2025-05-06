@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/a7medsr/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/a7medsr/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/a7medsr/Leetcode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/a7medsr/Leetcode/tree/master/0792-binary-search) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/a7medsr/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/a7medsr/Leetcode/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/a7medsr/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
