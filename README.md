@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/a7medsr/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/a7medsr/Leetcode/tree/master/0125-valid-palindrome) |
+| [0475-heaters](https://github.com/a7medsr/Leetcode/tree/master/0475-heaters) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/a7medsr/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/a7medsr/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/a7medsr/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/a7medsr/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0475-heaters](https://github.com/a7medsr/Leetcode/tree/master/0475-heaters) |
 | [0724-find-pivot-index](https://github.com/a7medsr/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/a7medsr/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/a7medsr/Leetcode/tree/master/0792-binary-search) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0475-heaters](https://github.com/a7medsr/Leetcode/tree/master/0475-heaters) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/a7medsr/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/a7medsr/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/a7medsr/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/a7medsr/Leetcode/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/a7medsr/Leetcode/tree/master/0475-heaters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/a7medsr/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/a7medsr/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/a7medsr/Leetcode/tree/master/0907-koko-eating-bananas) |
